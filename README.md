@@ -1,7 +1,7 @@
-- 👋 Hi, I’m SolarCrash
-- 👀 I’m interested in Full Stack web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Marvine
+- 👀 I’m a  Full Engineer
+- 🌱 I’m currently learning React and Django
+- 💞️ I’m looking to collaborate on  Backend Development
 - 📫 How to reach me ..solarcrash3@gmail.com
 
 <!---
