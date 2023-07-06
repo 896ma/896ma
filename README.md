@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marvine Oduor
+- 👋 Hi, I’m Marvine  Oduor
 - 👀 I’m a  Full Stack Engineer
 - 🌱 I’m currently learning React and Django
 - 💞️ I’m looking to collaborate on  Backend Development
