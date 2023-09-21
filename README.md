@@ -13,7 +13,7 @@
 
 - 📝Attached is a link to my business website where I design websites and distribute open source software [https://solatech.surge.sh/](https://solatech.surge.sh/)
 
-- 💬 Ask me about **react, JavaScript,Html,**
+- 💬 Ask me about **react, JavaScript,Html,C**
 
 - 📫 How to reach me **solarcrash3@gmail.com**
 
