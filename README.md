@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=896ma&show_icons=true&locale=en" alt="896ma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=896ma&" alt="896ma" /></p>
+
+<a href="https://app.daily.dev/G_oaT"><img src="https://api.daily.dev/devcards/21a791694cac44078b3c2a585c10aabe.png?r=p8u" width="400" alt="G_oaT's Dev Card"/></a>
