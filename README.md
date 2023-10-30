@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer and enthusiastic Cyber security Analyst from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=896ma&label=Profile%20views&color=0e75b6&style=flat" alt="896ma" /> </p> 
-
+  
 <p align="left"> <a href="https://https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=896ma" alt="896ma" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pombe_ya_mejja" target="blank"><img src="https://img.shields.io/twitter/follow/pombe_ya_mejja?logo=twitter&style=for-the-badge" alt="pombe_ya_mejja" /></a> </p>
