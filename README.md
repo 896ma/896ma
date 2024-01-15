@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pombe_ya_mejja" target="blank"><img src="https://img.shields.io/twitter/follow/pombe_ya_mejja?logo=twitter&style=for-the-badge" alt="pombe_ya_mejja" /></a> </p>
  
-- 🌱 I’m currently learning **Node and Django**
+- 🌱 I’m currently learning **Node and Django**  
    
 - 📄 Provided is my portfolio link from where you can evaluate me [https://portfoliomarvine.surge.sh/](https://portfoliomarvine.surge.sh/)
 
