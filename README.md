@@ -14,7 +14,7 @@
 - 📝Attached is a link to my business website where I design websites and distribute open source software [https://solatech.surge.sh/](https://solatech.surge.sh/)
 
 - 💬 Ask me about  **react, JavaScript,Html,Css**  
-- 
+-  
 - 📫 How to reach me **solarcrash3@gmail.com**
 
 - ⚡ I love Gaming (Fifa/EA FC) **I also enjoy working out and inventing ne w things**
