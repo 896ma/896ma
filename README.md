@@ -17,7 +17,7 @@
 -  
 - 📫 How to reach me **solarcrash3@gmail.com**
 
-- ⚡ I love Gaming (Fifa/EA FC) **I also enjoy working out and inventing ne w things**
+- ⚡ I love Gaming (Fifa/EA FC) **I also love  working out(bodybuilding  and boxing) and inventing things**
 
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
