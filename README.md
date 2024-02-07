@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marvine Oduor</h1>
-<h3 align="center">A passionate Full Stack Developer and result-Oriented Cybesecurity Analyst from Kenya</h3>
-             
+<h3 align="center">A passionate Front End Developer and result-Oriented Cybesecurity Analyst from Kenya</h3>
+              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=896ma&label=Profile%20views&color=0e75b6&style=flat" alt="896ma" /> </p>     
      
 <p align="left"> <a href="https://https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=896ma" alt="896ma" /></a> </p> 
