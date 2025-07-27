@@ -15,7 +15,7 @@
 
 - 💬 Ask me about  **  Ethical Hacking , Pentesting ,react, JavaScript,Html,Css**  
 -  
-- 📫 How to reach me **solarcrash3@gmail.com**
+- 📫 How to reach me **oduormarvin3@gmail.com**
 
 - ⚡ I enjoy   Gaming (Fifa/EA FC) on my free  time   **I also love  working out(bodybuilding  and boxing) and inventing things**
 
