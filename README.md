@@ -17,7 +17,7 @@
 -  
 - 📫 How to reach me **oduormarvin3@gmail.com**
 
-- ⚡ I enjoy   Working out after my shifts  **I also love  working out(bodybuilding  and boxing) and inventing things**
+- ⚡ I enjoy   Working out after my shifts  **I also  love gaming on my spare time **
 
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
