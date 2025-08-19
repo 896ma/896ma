@@ -9,7 +9,7 @@
      
 - 🌱 I’m currently  improving my  **Ethical Hacking** skills
    
-- 📄 Provided is my portfolio link from where you can evaluate me [Linked In](https://www.linkedin.com/in/marvine-oduor-)
+- 📄 Provided is my profile link from where you can evaluate me [Linked In](https://www.linkedin.com/in/marvine-oduor-)
 
 - 📝Attached is a link to my business website where I design websites and distribute open source software [https://solatech.surge.sh/](https://solatech.surge.sh/)
 
