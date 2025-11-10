@@ -11,7 +11,7 @@
    
 - 📄 Provided is my profile link from where you can evaluate me [Linked In](https://www.linkedin.com/in/marvine-oduor-)
 
-- 📝Attached is a link to my business website where I design websites and distribute open source software [https://solatech.surge.sh/](https://solatech.surge.sh/)
+- 📝Attached is a link to my business website where I design websites and distribute open source software [https://solatech.surge.sh/](https://mabcaslabs.com)
 
 - 💬 Ask me about  **  Ethical Hacking , Pentesting ,react, JavaScript,Html,Css**  
 -  
